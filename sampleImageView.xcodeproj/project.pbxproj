@@ -14,6 +14,7 @@
 		014022591CD33A8E00B920C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 014022571CD33A8E00B920C9 /* LaunchScreen.storyboard */; };
 		014022641CD33A8E00B920C9 /* sampleImageViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014022631CD33A8E00B920C9 /* sampleImageViewTests.swift */; };
 		0140226F1CD33A8E00B920C9 /* sampleImageViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0140226E1CD33A8E00B920C9 /* sampleImageViewUITests.swift */; };
+		0140227D1CD33EF800B920C9 /* sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 0140227C1CD33EF800B920C9 /* sample.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0140226A1CD33A8E00B920C9 /* sampleImageViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleImageViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0140226E1CD33A8E00B920C9 /* sampleImageViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleImageViewUITests.swift; sourceTree = "<group>"; };
 		014022701CD33A8E00B920C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0140227C1CD33EF800B920C9 /* sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				014022551CD33A8E00B920C9 /* Assets.xcassets */,
 				014022571CD33A8E00B920C9 /* LaunchScreen.storyboard */,
 				0140225A1CD33A8E00B920C9 /* Info.plist */,
+				0140227C1CD33EF800B920C9 /* sample.png */,
 			);
 			path = sampleImageView;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				014022591CD33A8E00B920C9 /* LaunchScreen.storyboard in Resources */,
 				014022561CD33A8E00B920C9 /* Assets.xcassets in Resources */,
 				014022541CD33A8E00B920C9 /* Main.storyboard in Resources */,
+				0140227D1CD33EF800B920C9 /* sample.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
